@@ -722,6 +722,9 @@
   
   
   @media screen and (max-width: 768px) {
+    .analista {
+      font-size: 1%;
+    }
     body {
       font-size: 14px;
     }
@@ -751,6 +754,9 @@
   }
   
   @media screen and (max-width: 610px) {
+    .analista {
+      font-size: 1%;
+    }
     body {
       font-size: 13px;
     }
