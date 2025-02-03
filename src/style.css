@@ -711,9 +711,20 @@
     footer .container .link-container .navigation ul li::after {
       width: 60%;
     }
+    section {
+      padding: 20px;
+    }
+  
+    footer {
+      padding: 20px;
+    }
   }
   
+  
   @media screen and (max-width: 768px) {
+    body {
+      font-size: 14px;
+    }
     .responsive-svg text {
       font-size: 24px; /* Ajusta el tamaño del texto para pantallas pequeñas */
     }
@@ -740,6 +751,9 @@
   }
   
   @media screen and (max-width: 610px) {
+    body {
+      font-size: 13px;
+    }
     .responsive-svg text {
       font-size: 21px; /* Ajusta el tamaño del texto para pantallas muy pequeñas */
     }
@@ -756,6 +770,9 @@
   }
   
   @media screen and (max-width: 480px) {
+    body {
+      font-size: 12px;
+    }
     .responsive-svg text {
       font-size: 18px; /* Ajusta el tamaño del texto para pantallas muy pequeñas */
     }
