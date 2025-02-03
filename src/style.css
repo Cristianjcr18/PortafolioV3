@@ -775,9 +775,9 @@
     .hero .container .content svg text {
       text-transform: uppercase;
       font-weight: bold;
-      font-size: 300px;
+      font-size: 231px;
       animation: stroke 5s infinite alternate;
-      height: auto;
+    
     }
     header .mobile-nav ul li {
       width: 50%;
