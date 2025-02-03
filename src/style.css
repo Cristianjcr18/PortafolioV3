@@ -776,9 +776,13 @@
   }
   
   @media screen and (max-width: 480px) {
-.hero {
-  font-size: 35%;
-}
+    .analista {
+      font-size: 90%
+    }
+
+    .responsive-svg text {
+      font-size: 70%; /* Ajusta el tamaño del texto para pantallas muy pequeñas */
+    }
     header .mobile-nav ul li {
       width: 50%;
     }
