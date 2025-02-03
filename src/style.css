@@ -819,10 +819,32 @@
       flex-wrap: wrap;
       justify-content: center;
       align-items: center;
-      margin-bottom: 23%;
+      margin-bottom: 23%
 
-  
   }
+  .about .container .content .about-me .description {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  
+  .about .container .content .about-me .description .name-role {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .about .container .content .about-me .description .name-role h1 {
+    font-weight: bold;
+    font-size: 3rem;
+  }
+  
+  .about .container .content .about-me .description .name-role .role {
+    width: 100%;
+    display: flex;
+  }
+
 
   p {
     display: block;
