@@ -161,7 +161,7 @@
     font-size: 2.2rem;
     font-weight: 500;
     line-height: 48px;
-    /*width: 65%; */
+    width: 65%; 
   }
   
   .hero .container .content h1 span {
@@ -775,9 +775,16 @@
     .hero .container .content svg text {
       text-transform: uppercase;
       font-weight: bold;
-      font-size: 231px;
+      font-size: 181px;
       animation: stroke 5s infinite alternate;
     
+    }
+    .hero .container .content h1 {
+      text-align: center;
+      font-size: 1.2rem;
+      font-weight: 500;
+      line-height: 48px;
+      /*width: 65%; */
     }
     header .mobile-nav ul li {
       width: 50%;
