@@ -801,14 +801,15 @@
 
     /* RESPONSIVE SOBRE MI*/
     
-
-    
-    .about .container .content .about-me .profile .image-box img {
-      width: 70%;
-      border-radius: 180px;
-      background-color: aqua;
-     
+    .about .container .content .about-me .profile {
+      width: 50%;
+    background-color: #007bff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
     }
+
+
   
   }
 
