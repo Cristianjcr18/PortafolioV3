@@ -869,6 +869,7 @@
   box-shadow: 0 8px 20px rgba(255, 255, 255, 0.5);
   transform: translateY(-2px); 
 }
+  }
 
 .footer {
   background-color: #111; 
@@ -913,5 +914,4 @@
   background-color: #c48f00; 
   transform: scale(1.05);
 }
-
 
