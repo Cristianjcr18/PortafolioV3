@@ -806,7 +806,13 @@
       border-radius: 180px;
      
     }
-
+    .about .container .content .about-me {
+      display: flex;
+      gap: 12px;
+      flex-direction: column;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
 
   
   }
