@@ -755,7 +755,7 @@
       font-size: 13px;
     }
     .responsive-svg text {
-      font-size: 21px; /* Ajusta el tamaño del texto para pantallas muy pequeñas */
+      font-size: 40px; /* Ajusta el tamaño del texto para pantallas muy pequeñas */
     }
     footer .container .profile,
     footer .container .link-container {
