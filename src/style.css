@@ -776,12 +776,11 @@
   }
   
   @media screen and (max-width: 480px) {
-    .analista {
-      font-size: 90%
-    }
-
-    .responsive-svg text {
-      font-size: 70%; /* Ajusta el tamaño del texto para pantallas muy pequeñas */
+    .hero .container .content svg text {
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 132px;
+      animation: stroke 5s infinite alternate;
     }
     header .mobile-nav ul li {
       width: 50%;
