@@ -781,6 +781,7 @@
       font-weight: bold;
       font-size: 300px;
       animation: stroke 5s infinite alternate;
+      width: 100%;
     }
     header .mobile-nav ul li {
       width: 50%;
