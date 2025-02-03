@@ -774,7 +774,7 @@
       font-size: 12px;
     }
     .responsive-svg text {
-      font-size: 18px; /* Ajusta el tamaño del texto para pantallas muy pequeñas */
+      font-size: 88px; /* Ajusta el tamaño del texto para pantallas muy pequeñas */
     }
     header .mobile-nav ul li {
       width: 50%;
