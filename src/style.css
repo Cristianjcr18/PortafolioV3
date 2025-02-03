@@ -785,6 +785,11 @@
       font-weight: 700;
       width: 65%;
     }
+
+    .content{
+      height: max-content;
+    }
+
     header .mobile-nav ul li {
       width: 50%;
     }
