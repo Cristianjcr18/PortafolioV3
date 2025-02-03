@@ -801,7 +801,8 @@
 
     /* RESPONSIVE SOBRE MI */ 
     .about .container .content .about-me .profile .image-box img {
-      width:fit-content;
+      width:140%;
+      height: 55%;                                                     /*ajustar bien el alto de la imagen */
       border-radius: 180px;
      
     }
