@@ -25,9 +25,9 @@
     color: #fff;
   }
   
-  .container {
+ /* .container {
     padding: 1rem 6rem;
-  }
+  } */
   
   .title {
     text-align: center;
@@ -786,9 +786,7 @@
       width: 65%;
     }
 
-    .content{
-      height: max-content;
-    }
+
 
     header .mobile-nav ul li {
       width: 50%;
