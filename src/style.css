@@ -797,6 +797,19 @@
     footer .container .link-container .navigation {
       width: 50%;
     }
+
+
+    /* RESPONSIVE SOBRE MI*/
+    
+    .about .container .content .about-me .profile {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+
+  
   }
 
   p {
