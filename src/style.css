@@ -801,9 +801,9 @@
 
     /* RESPONSIVE SOBRE MI */ 
     .about .container .content .about-me .profile .image-box img {
-      width: 70%;
+      width:fit-content;
       border-radius: 180px;
-     background-color: #c48f00;
+     
     }
 
 
