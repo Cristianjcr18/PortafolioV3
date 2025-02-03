@@ -804,6 +804,7 @@
       width:140%;
       height: 55%;                                                     /*ajustar bien el alto de la imagen */
       border-radius: 180px;
+      margin-top: 23%;
      
     }
     .about .container .content .about-me {
@@ -813,6 +814,7 @@
       flex-wrap: wrap;
       justify-content: center;
       align-items: center;
+      margin-bottom: 23%;
 
   
   }
