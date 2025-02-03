@@ -776,6 +776,9 @@
   }
   
   @media screen and (max-width: 480px) {
+    body{
+      background-color: #007bff;
+    }
     .analista {
       font-size: 100%;
     }
