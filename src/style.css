@@ -775,16 +775,15 @@
     .hero .container .content svg text {
       text-transform: uppercase;
       font-weight: bold;
-      font-size: 181px;
+      font-size: 161px;
       animation: stroke 5s infinite alternate;
     
     }
     .hero .container .content h1 {
       text-align: center;
       font-size: 1.2rem;
-      font-weight: 500;
-      line-height: 48px;
-      /*width: 65%; */
+      font-weight: 700;
+      width: 65%;
     }
     header .mobile-nav ul li {
       width: 50%;
