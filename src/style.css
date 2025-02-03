@@ -801,15 +801,22 @@
 
     /* RESPONSIVE SOBRE MI*/
     
-    .about .container .content .about-me .profile {
-      width: 50%;
-      height: max-content;
+    .about .container .content .about-me .profile .image-box {
       display: flex;
       justify-content: center;
       align-items: center;
+      padding: 8px;
+      background-color: #0202026b;
+      border-radius: 16px;
+      width: 75%;
+      height: 70%;
     }
-
-
+    
+    .about .container .content .about-me .profile .image-box img {
+      width: 70%;
+      border-radius: 180px;
+     
+    }
   
   }
 
