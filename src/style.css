@@ -779,9 +779,7 @@
     .analista {
       font-size: 100%;
     }
-    body {
-      font-size: 12px;
-    }
+
     .responsive-svg text {
       font-size: 88px; /* Ajusta el tamaño del texto para pantallas muy pequeñas */
     }
