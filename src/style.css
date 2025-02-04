@@ -862,11 +862,11 @@
 
   .project .container .content .projects {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    /*grid-template-columns: repeat(2, minmax(0, 1fr));*/
     align-items: center;
     justify-content: center;
-    gap: 60px;
-    width: 85%;
+    gap: 80px;
+    width: 90%;
   }
 
 
