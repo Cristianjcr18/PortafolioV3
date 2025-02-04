@@ -837,7 +837,7 @@
   
   .about .container .content .about-me .description .name-role h1 {
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 2rem;
   }
   
   .about .container .content .about-me .description .name-role .role {
@@ -882,7 +882,7 @@
 .cv-button {
   text-align: center;
   margin-top:40px;
-  margin-right: 100px;
+  margin-right: 30px;
 }
 
 .btn-cv {
@@ -894,7 +894,7 @@
   background-color: hsl(0, 0%, 0%); 
   text-decoration: none;
   border-radius: 12px; 
-  transition: all 0.3s ease;
+
   box-shadow: 0 5px 15px rgba(255, 255, 255, 0.3); 
 }
 
