@@ -861,17 +861,13 @@
   /* RESPONSIVE PROYECTOS*/
 
   .project .container .content .projects {
-    /*display: grid;*/
+    display: grid;
     /*grid-template-columns: repeat(2, minmax(0, 1fr));*/
     align-items: center;
     justify-content: center;
     gap: 80px;
     width: 90%;
   }
-
-
-    /* AQUI MODIFICO LAS CARDS DE LOS PROYECTOS */
-
 
   .project .container .content .projects .card {
     padding: 16px;
