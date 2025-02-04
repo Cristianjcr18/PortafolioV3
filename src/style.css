@@ -844,7 +844,19 @@
     width: 100%;
     display: flex;
   }
-
+  .about .container .content .about-me .description .name-role .role h2 {
+    font-weight: 500;
+    font-size: 2rem;
+    padding: 4px 6px;
+    background-color: #fff;
+    border-radius: 8px;
+    color: #000;
+  }
+  
+  .about .container .content .about-me .description p {
+    font-size: 1.2rem;
+    text-align: -webkit-auto;
+  }
 
   p {
     display: block;
