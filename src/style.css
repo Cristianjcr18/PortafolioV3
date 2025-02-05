@@ -800,6 +800,14 @@
 
 
     /* RESPONSIVE SOBRE MI */ 
+
+    .about .container .content .about-me .profile {
+      width: 70%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
     .about .container .content .about-me .profile .image-box img {
       width:140%;
       height: 55%;                                                     /*ajustar bien el alto de la imagen */
