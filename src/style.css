@@ -462,7 +462,7 @@
   }
   
   footer .container {
-    padding: 4rem;
+    padding: 2rem;
     display: flex;
     flex-wrap: wrap;
     width: 100%;
@@ -471,10 +471,12 @@
   }
   
   footer .container .profile {
+    align-items: center;
     display: flex;
     flex-direction: column;
     gap: 8px;
     width: 25%;
+    padding-left: 90%;
   }
   
   footer .container .link-container {
