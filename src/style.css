@@ -476,7 +476,7 @@
     flex-direction: column;
     gap: 8px;
     width: 25%;
-    padding-left: 90%;
+    padding-left: 100%;
   }
   
   footer .container .link-container {
