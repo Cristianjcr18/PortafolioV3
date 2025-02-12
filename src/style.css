@@ -528,13 +528,13 @@
     padding: 6px;
     border-radius: 50%;
     background-color: #191919;
-    transition: transform 4s linear;
+    transition: transform 1s linear;
   }
   
-  footer .container .profile .social-media-container .social-media:hover {
+ /* footer .container .profile .social-media-container .social-media:hover {
     transform: rotateY(360deg);
   }
-  
+  */
   
   @keyframes stroke {
     0% {
