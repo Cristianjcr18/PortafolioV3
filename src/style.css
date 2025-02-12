@@ -528,11 +528,11 @@
     padding: 6px;
     border-radius: 50%;
     background-color: #191919;
-    transition: transform 1s linear;
+    transition: transform 2s linear;
   }
   
   footer .container .profile .social-media-container .social-media:hover {
-    transform: rotateY(180deg);
+    transform: rotateY(360deg);
   }
   
   footer .container .link-container .information h1,
