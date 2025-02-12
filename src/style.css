@@ -617,14 +617,6 @@
     footer .container .link-container {
       gap: 2rem;
     }
-    footer .container .profile {
-      align-items: center;
-      display: flex;
-      flex-direction: column;
-      gap: 8px;
-      width: 25%;
-      padding-left: 110%;
-    }
   }
   
   @media screen and (max-width: 1024px) {
