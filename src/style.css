@@ -532,7 +532,7 @@
   }
   
   footer .container .profile .social-media-container .social-media:hover {
-    transform: rotateY(360deg);
+    transform: rotateY(180deg);
   }
   
   footer .container .link-container .information h1,
