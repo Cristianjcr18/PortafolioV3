@@ -971,12 +971,21 @@
     gap: 4rem;
   }
   
-  footer .container .profile {
+  /* footer .container .profile {
     display: flex;
     flex-direction: column;
     gap: 8px;
     width: 25%;
   }
+    */
+    footer .container .profile {
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      width: 25%;
+    }
+    
   
   footer .container .link-container {
     width: 10%;
