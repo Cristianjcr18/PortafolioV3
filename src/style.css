@@ -832,12 +832,12 @@
     padding: 16px;
     /*border: 1px solid #ffffff3a;*/
     border-radius: 12px;
-    height: 700px;
+    height: 600px;
   }
   
   .project .container .content .projects .card img {
     width: 100%;
-    height: 30%;
+    height: 40%;
     border-radius: 12px;
   }
   
